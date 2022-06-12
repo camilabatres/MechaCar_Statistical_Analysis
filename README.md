@@ -1,9 +1,8 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regresson to Predict MPG 
-1Q. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
-1A. Out of the 5 variables, the vehicle length and ground_clearance are the two variables that provide a non-random amount of variance due to the small p-value/high significant level. 
+*Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+* Out of the 5 variables, the vehicle length and ground_clearance are the two variables that provide a non-random amount of variance due to the small p-value/high significant level. 
 
 
 2Q. Is the slope of the linear model considered to be zero? Why or why not?
