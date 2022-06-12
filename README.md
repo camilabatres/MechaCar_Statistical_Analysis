@@ -24,11 +24,14 @@ IMAGE
 
 ## T-Tests on Suspension Coils
 Results 
-* 
-t-test for all 
+
+### t-test for all 
+The image below demonstrates the one sample t-test for all the lots and we can see that the p-value is over the significance level of 0.05. Therefore, we cannot reject the null hypothesis. 
 ![image](https://user-images.githubusercontent.com/100107588/173238291-d62e3cb1-b38c-46bc-852f-1c23c2984081.png)
 
-t-test for each lot 
+### t-test for each lot 
+For lot 1 and lot 2 the p-value is over the significance level, therefore, we cannot reject the null hypothesis. 
+For lot 3, it is different. The p-value is under the significanace level of 0.05, therefore the null hypothesis can be rejected and it is statistical different. 
 ![image](https://user-images.githubusercontent.com/100107588/173238236-17f418fe-e818-4aad-9911-768857985b30.png)
 
 ## Study Design: MechaCar vs Competition
