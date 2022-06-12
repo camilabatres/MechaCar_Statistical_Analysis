@@ -35,4 +35,15 @@ For lot 3, it is different. The p-value is under the significanace level of 0.05
 ![image](https://user-images.githubusercontent.com/100107588/173238236-17f418fe-e818-4aad-9911-768857985b30.png)
 
 ## Study Design: MechaCar vs Competition
+What metric or metrics are you going to test?
+* The metrics are vehicle weight and highway fuel efficiencies.
 
+What is the null hypothesis or alternative hypothesis?
+* Null Hypothesis is that all of the cars with the same weight have the same fuel efficienies.
+* The Alternative Hypothesis is that they are not all the same.
+
+What statistical test would you use to test the hypothesis? And why?
+* I would use an ANOVA test and a ggplot2 library to show the potential spread between different cars using a boxplot.
+
+What data is needed to run the statistical test?
+* I would need fuel efficiency data from 100 individual cars to create a sample size of data for each car in the class type.
